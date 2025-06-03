@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transflower.WebAPI", "Transflower.WebAPI\Transflower.WebAPI.csproj", "{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transflower.Tests", "Transflower.Tests\Transflower.Tests.csproj", "{FC49190F-4630-400B-BE98-AFC016D575AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Debug|x64.Build.0 = Debug|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Debug|x86.Build.0 = Debug|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Release|x64.ActiveCfg = Release|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Release|x64.Build.0 = Release|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{8AE98E69-7BBA-4D23-9C2C-B008D5EFC2DF}.Release|x86.Build.0 = Release|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Debug|x64.Build.0 = Debug|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Debug|x86.Build.0 = Debug|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Release|x64.ActiveCfg = Release|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Release|x64.Build.0 = Release|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC49190F-4630-400B-BE98-AFC016D575AE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
