@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UYUYYhCRFw8MHLwjALHmR4cqM4qSErB/knyeulF6DwE=",
+  "Source": "Transflower.WebAPI",
+  "BasePath": "_content/Transflower.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

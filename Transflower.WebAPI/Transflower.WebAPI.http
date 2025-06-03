@@ -1,0 +1,6 @@
+@Transflower.WebAPI_HostAddress = http://localhost:5019
+
+GET {{Transflower.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

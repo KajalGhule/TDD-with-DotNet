@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iauhCu8R6E=",
+  "success": true,
+  "projectFilePath": "D:\\TAP\\TDD-with-DotNet\\Transflower.WebAPI\\Transflower.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KAJAL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\KAJAL\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
